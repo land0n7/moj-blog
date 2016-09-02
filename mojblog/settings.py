@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'moj_blog',
 ]
-
+#http://stackoverflow.com/questions/37949198/wsgirequest-object-has-no-attribute-user-django-admin
 MIDDLEWARE_CLASSES = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',

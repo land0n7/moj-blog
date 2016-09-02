@@ -15,4 +15,4 @@ class Post(models.Model):
     def __str__(self):
         return self.title
 
-# Create your models here.
+# http://tutorial.djangogirls.org/en/django_models/
